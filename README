@@ -1,0 +1,5 @@
+The project is for automation home plan.the technology includes:
+1. arduino read the moisture of the earth 
+2. arduino read the tempereture and humidity of the room
+3. communicattion between arduino and raspberry pi by bluetooth
+4. the raspberry use the reading data and send a message to weibo
